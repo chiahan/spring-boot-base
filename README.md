@@ -138,7 +138,5 @@ java -jar xxx.jar # run jar file under /target folder
 ```java
 localhost:8080/hello
 ```
-
-- Reference
-
-<https://spring.io/guides/gs/spring-boot/>
+---
+Reference: <https://spring.io/guides/gs/spring-boot/>
