@@ -1,6 +1,6 @@
 # Create Spring Boot Project without IDE
 
-## Installation (OSX)
+## Installation (macOS)
 
 ### 1\. Install Java
 
