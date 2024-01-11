@@ -34,6 +34,21 @@ OS name: "mac os x", version: "12.1", arch: "aarch64", family: "mac"
 
 ## Create Spring Boot project
 
+- Folder structure overviw
+```
+spring-boot-init
+└── src
+    └── main
+        └── java
+            └── com
+                └── example
+                    └── demo
+                        └── MainApplication.java
+                        └── HelloController.java
+└── pom.xml
+
+```
+
 - folder
 
 ```bash
@@ -97,7 +112,7 @@ import org.springframework.context.ApplicationContext;
 
 @SpringBootApplication
 public class MainApplication {
-		public static void main(String[] args) {
+	public static void main(String[] args) {
 		ApplicationContext ctx = SpringApplication.run(MainApplication.class, args);
 	}	
 }
