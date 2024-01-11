@@ -36,13 +36,13 @@ OS name: "mac os x", version: "12.1", arch: "aarch64", family: "mac"
 
 - Folder structure overviw
 ```
-spring-boot-init
-└── src
-    └── main
-        └── java
-            └── com
-                └── example
-                    └── demo
+spring-boot-init/
+└── src/
+    └── main/
+        └── java/
+            └── com/
+                └── example/
+                    └── demo/
                         └── MainApplication.java
                         └── HelloController.java
 └── pom.xml
